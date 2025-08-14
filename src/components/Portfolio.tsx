@@ -18,56 +18,56 @@ const Portfolio = () => {
       id: 1,
       category: 'bridal',
       title: 'Intricate Bridal Design',
-      image: 'https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1596003906949-67221c37965c?w=400&h=500&fit=crop&crop=center',
       description: 'Elaborate bridal henna with traditional motifs'
     },
     {
       id: 2,
       category: 'arabic',
       title: 'Modern Arabic Pattern',
-      image: 'https://images.unsplash.com/photo-1574192324001-ee41e18ed679?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&crop=center',
       description: 'Bold Arabic design with contemporary twist'
     },
     {
       id: 3,
       category: 'traditional',
       title: 'Classic Mandala',
-      image: 'https://images.unsplash.com/photo-1599843093846-b0ccda66db1f?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=500&fit=crop&crop=center',
       description: 'Traditional mandala with intricate details'
     },
     {
       id: 4,
       category: 'modern',
       title: 'Minimalist Design',
-      image: 'https://images.unsplash.com/photo-1544531585-9847b68c8c86?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=500&fit=crop&crop=center',
       description: 'Simple and elegant modern pattern'
     },
     {
       id: 5,
       category: 'bridal',
       title: 'Full Hand Bridal',
-      image: 'https://images.unsplash.com/photo-1596003906949-67221c37965c?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1544531585-9847b68c8c86?w=400&h=500&fit=crop&crop=center',
       description: 'Complete bridal henna design'
     },
     {
       id: 6,
       category: 'arabic',
       title: 'Floral Arabic',
-      image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1590736969955-71cc94901144?w=400&h=500&fit=crop&crop=center',
       description: 'Arabic style with floral elements'
     },
     {
       id: 7,
       category: 'traditional',
       title: 'Paisley Patterns',
-      image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1599843093846-b0ccda66db1f?w=400&h=500&fit=crop&crop=center',
       description: 'Traditional paisley and vine motifs'
     },
     {
       id: 8,
       category: 'modern',
       title: 'Geometric Design',
-      image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=500&fit=crop&crop=center',
+      image: 'https://images.unsplash.com/photo-1574192324001-ee41e18ed679?w=400&h=500&fit=crop&crop=center',
       description: 'Contemporary geometric patterns'
     }
   ];

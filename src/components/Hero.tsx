@@ -3,7 +3,7 @@ import { Play, Star, Users } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section id="home" className="min-h-screen flex items-center relative overflow-hidden">
+    <section id="home" className="min-h-screen flex items-center relative overflow-hidden pt-20 lg:pt-24">
       {/* Background Pattern */}
       <div className="absolute inset-0 henna-pattern opacity-30"></div>
       
@@ -70,8 +70,8 @@ const Hero = () => {
               {/* Main Image Container */}
               <div className="relative z-10 card-elevated p-4">
                 <img
-                  src="https://images.unsplash.com/photo-1590736969955-71cc94901144?w=600&h=700&fit=crop&crop=center"
-                  alt="Beautiful henna design"
+                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=700&fit=crop&crop=center"
+                  alt="Intricate henna design on hands"
                   className="w-full h-[500px] lg:h-[600px] object-cover rounded-lg"
                 />
                 
