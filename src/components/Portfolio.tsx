@@ -18,56 +18,56 @@ const Portfolio = () => {
       id: 1,
       category: 'bridal',
       title: 'Intricate Bridal Design',
-      image: '/lovable-uploads/4b3b6f16-81d8-4b67-99de-02d6e8c35b5f.png',
+      image: '/lovable-uploads/d82eff6a-8b3c-4413-85dd-5d0dd28b1bc3.png',
       description: 'Elaborate bridal henna with traditional motifs'
     },
     {
       id: 2,
       category: 'arabic',
       title: 'Modern Arabic Pattern',
-      image: '/lovable-uploads/8def7f00-d3e6-459f-bf97-23a24c9c7f95.png',
+      image: '/lovable-uploads/9a4eea6d-2bb1-4eec-b9a0-8e0f76c11648.png',
       description: 'Bold Arabic design with contemporary twist'
     },
     {
       id: 3,
       category: 'traditional',
       title: 'Classic Mandala',
-      image: '/lovable-uploads/1d8a1c9a-ba10-49d3-aad5-4b7a4a5e77a8.png',
+      image: '/lovable-uploads/6d8f03ee-2ef1-40cc-aa55-bafaddc99bd4.png',
       description: 'Traditional mandala with intricate details'
     },
     {
       id: 4,
       category: 'modern',
       title: 'Minimalist Design',
-      image: '/lovable-uploads/cb4cc2ce-6ab5-4c6c-a8fc-f1ba2defe806.png',
+      image: '/lovable-uploads/aaf74f50-1d08-48e0-976d-7dc679a0c757.png',
       description: 'Simple and elegant modern pattern'
     },
     {
       id: 5,
       category: 'bridal',
       title: 'Full Hand Bridal',
-      image: '/lovable-uploads/4b3b6f16-81d8-4b67-99de-02d6e8c35b5f.png',
+      image: '/lovable-uploads/d82eff6a-8b3c-4413-85dd-5d0dd28b1bc3.png',
       description: 'Complete bridal henna design'
     },
     {
       id: 6,
       category: 'arabic',
       title: 'Floral Arabic',
-      image: '/lovable-uploads/8def7f00-d3e6-459f-bf97-23a24c9c7f95.png',
+      image: '/lovable-uploads/9a4eea6d-2bb1-4eec-b9a0-8e0f76c11648.png',
       description: 'Arabic style with floral elements'
     },
     {
       id: 7,
       category: 'traditional',
       title: 'Paisley Patterns',
-      image: '/lovable-uploads/1d8a1c9a-ba10-49d3-aad5-4b7a4a5e77a8.png',
+      image: '/lovable-uploads/6d8f03ee-2ef1-40cc-aa55-bafaddc99bd4.png',
       description: 'Traditional paisley and vine motifs'
     },
     {
       id: 8,
       category: 'modern',
       title: 'Geometric Design',
-      image: '/lovable-uploads/cb4cc2ce-6ab5-4c6c-a8fc-f1ba2defe806.png',
+      image: '/lovable-uploads/aaf74f50-1d08-48e0-976d-7dc679a0c757.png',
       description: 'Contemporary geometric patterns'
     }
   ];
