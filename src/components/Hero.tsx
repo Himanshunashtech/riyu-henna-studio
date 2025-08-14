@@ -70,7 +70,7 @@ const Hero = () => {
               {/* Main Image Container */}
               <div className="relative z-10 card-elevated p-4">
                 <img
-                  src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=700&fit=crop&crop=center"
+                  src="/lovable-uploads/4b3b6f16-81d8-4b67-99de-02d6e8c35b5f.png"
                   alt="Intricate henna design on hands"
                   className="w-full h-[500px] lg:h-[600px] object-cover rounded-lg"
                 />

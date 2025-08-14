@@ -33,12 +33,12 @@ const About = () => {
           <div className="relative animate-scale-in">
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.unsplash.com/photo-1596003906949-67221c37965c?w=300&h=400&fit=crop&crop=center"
+                src="/lovable-uploads/8def7f00-d3e6-459f-bf97-23a24c9c7f95.png"
                 alt="Detailed henna mandala design"
                 className="w-full h-64 object-cover rounded-lg shadow-warm"
               />
               <img
-                src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=300&h=400&fit=crop&crop=center"
+                src="/lovable-uploads/1d8a1c9a-ba10-49d3-aad5-4b7a4a5e77a8.png"
                 alt="Traditional henna pattern on palm"
                 className="w-full h-64 object-cover rounded-lg shadow-warm mt-8"
               />
